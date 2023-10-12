@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gcintir/simple-web-app#readme",
   "dependencies": {
+    "@RHEcosystemAppEng/exhort-javascript-api": "^0.0.2-ea.36",
     "express": "^4.18.1"
   }
 }
